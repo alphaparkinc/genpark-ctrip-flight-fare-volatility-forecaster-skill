@@ -1,0 +1,15 @@
+{
+  "name": "genpark-ctrip-flight-fare-volatility-forecaster-skill",
+  "version": "1.0.0",
+  "description": "GenPark Ctrip Flight Fare Volatility Forecaster - Predicts airline dynamic ticket fare fluctuations and outputs optimal Buy-Now vs Wait-and-Freeze recommendations.",
+  "category": "Service",
+  "mcp_entry": "mcp_server.py",
+  "python_version": ">=3.9",
+  "tags": [
+    "ctrip",
+    "flight-pricing",
+    "yield-forecasting",
+    "airfare-ai",
+    "mcp"
+  ]
+}
